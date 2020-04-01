@@ -1,0 +1,4 @@
+client-id
+0026c03da7b192c
+client-secret
+0bd21f36627a41d5fd1ed44466b25bc7ff9298e2
